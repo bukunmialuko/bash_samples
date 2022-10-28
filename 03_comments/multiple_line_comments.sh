@@ -1,4 +1,8 @@
 #! /bin/bash
 
+# This is a multiple line comment
 
-echo "This sentence was written into a txt file using bash script" > write_to_file.txt
+: '
+echo "Hello Bash!" 
+echo 
+'
