@@ -1,0 +1,1 @@
+This sentence was written into a txt file using bash script
