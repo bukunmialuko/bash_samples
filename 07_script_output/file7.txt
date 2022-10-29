@@ -1,0 +1,16 @@
+total 80
+drwxr-xr-x  15 obkm  staff  480 Oct 29 11:31 .
+drwxr-xr-x@ 12 obkm  staff  384 Oct 29 00:07 ..
+-rw-r--r--   1 obkm  staff   10 Oct 29 11:25 dummy_text.txt
+-rw-r--r--   1 obkm  staff  583 Oct 29 11:27 file1.txt
+-rw-r--r--   1 obkm  staff    0 Oct 29 11:25 file2.txt
+-rw-r--r--   1 obkm  staff    0 Oct 29 11:26 file3.txt
+-rw-r--r--   1 obkm  staff   35 Oct 29 11:26 file4.txt
+-rw-r--r--   1 obkm  staff  638 Oct 29 11:28 file5.txt
+-rw-r--r--   1 obkm  staff   35 Oct 29 11:29 file6.txt
+-rw-r--r--   1 obkm  staff    0 Oct 29 11:31 file7.txt
+-rwxr-xr-x   1 obkm  staff   44 Oct 29 00:09 read_write.sh
+-rwxr-xr-x   1 obkm  staff   31 Oct 29 11:28 read_write_one_output.sh
+-rwxr-xr-x   1 obkm  staff   36 Oct 29 11:29 read_write_one_output_same_for_error.sh
+-rwxr-xr-x   1 obkm  staff   33 Oct 29 11:31 read_write_one_output_same_for_error_shortcut.sh
+-rwxr-xr-x   1 obkm  staff   44 Oct 29 11:26 read_write_with_error.sh
