@@ -1,19 +1,12 @@
 #! /bin/bash
 
+echo "Exter directory name to check"
 
-function funcCheck()
-{
-    returningValue="I love linux"
-    # echo $returningValue
-    
-}
+read direct 
 
-
-returningValue="I love mac"
-echo $returningValue
-
-funcCheck
-
-echo $returningValue
-
-echo "Test"
+if [ -d "$direct" ]
+then
+        echo "$directory exists"
+else
+        echo "$directory does not exists"
+fi
